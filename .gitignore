@@ -1,0 +1,18 @@
+.idea
+target
+build
+db
+*.iml
+bin
+.DS_Store
+logs
+logback
+*.project
+/*.log
+# 忽略eclipse配置、
+.project
+.classpath
+.settings/*
+*/.project
+*/.classpath
+*/.settings/*
